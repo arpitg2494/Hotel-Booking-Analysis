@@ -7,6 +7,7 @@ Context-
 
 This dataset contains 119390 observations for a City Hotel and a Resort Hotel. Each observation represents a hotel booking between the 1st of July 2015 and 31st of August 2017, including booking that effectively arrived and booking that were canceled.
 
+---------------------------------------------------------------------------------------------------
 Tools and Skills Employed:
 
   1. Critical thinking
@@ -14,7 +15,9 @@ Tools and Skills Employed:
   3. Working of Jupyter Notebook
   4. Brainstroming
   5. Presentation
+---------------------------------------------------------------------------------------------------
 
+---------------------------------------------------------------------------------------------------
 
 Business Request:
 
@@ -49,9 +52,14 @@ Assumptions:
 •	Biggest factor affecting the earning is cancellation.
 •	Hotels have no earning for the day from the room on the day of cancellation.
 
+---------------------------------------------------------------------------------------------------
 
 Performing EDA : https://github.com/arpitg2494/Hotel-Booking-Analysis/blob/8ab8e786d395d321249e21c8d3d5c24a88767a8f/Hotel%20Booking%20EDA.ipynb
 
+---------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------
 
 Suggestions based upon Conclusions reached through EDA:
 
@@ -70,5 +78,5 @@ Suggestions based upon Conclusions reached through EDA:
 4.	Online booking sees the second highest number of cancellations – Hotels should produce more promotional videos, aesthetical photos, and customer testimony videos, and regularly offer coupons to prevent customers from cancelling due to competitive pricing of other hotels.
 
 
-
+---------------------------------------------------------------------------------------------------
 
